@@ -1,5 +1,5 @@
 ## Project
-[Project Akhir](https://muhammadalagung.github.io/project.html)
+[Project Akhir](https://muhammadalagung.github.io/project.html){:target="_blank"}
 
 ## Download PDF
-[Download]()
+[Download](){:target="_blank"}
