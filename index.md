@@ -1,5 +1,5 @@
 ## Project
-[Project Akhir](https://github.com/MuhammadAlAgung/alagung.github.io/edit/master/index.md)
+[Project Akhir](https://muhammadalagung.github.io/project.html)
 
 ## Download PDF
 [Download]()
